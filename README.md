@@ -1,7 +1,7 @@
 # Knowledge Android
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/knowledge-solutions/knowledge-android.svg?style=flat-square)](https://github.com/knowledge-solutions/knowledge-android/issues)
+[![issues](https://img.shields.io/github/issues/descco-tools/knowledge-android.svg?style=flat-square)](https://github.com/descco-tools/knowledge-android/issues)
 
 ## Contributing
 
@@ -13,7 +13,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/knowledge-solutions/knowledge-android/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-tools/knowledge-android/releases) for detailed changelog.
 
 ## License
 
